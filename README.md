@@ -274,4 +274,4 @@ If you use this repository or build on FedSeMER, please cite the paper:
 - Email: `minhnhut.ngnn@gmail.com`
 - GitHub: https://github.com/nhut-ngnn
 - ORCID: https://orcid.org/0009-0003-1281-5346
-# FedSeMER
+
