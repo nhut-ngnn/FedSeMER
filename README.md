@@ -241,37 +241,3 @@ Notable ablation findings (full tables in the paper):
 
 This project is licensed under the MIT License. See `LICENSE`.
 
-## References
-[1] Nhut Minh Nguyen, Enhancing multimodal emotion recognition with dynamic fuzzy membership and attention fusion, (Engineering Applications of Artificial Intelligence), 2026. Available https://github.com/aita-lab/FleSER.
-
-[2] Nhut Minh Nguyen, CemoBAM: Advancing Multimodal Emotion Recognition through Heterogeneous Graph Networks and Cross-Modal Attention Mechanisms (APNOMS), 2025. Available https://github.com/nhut-ngnn/CemoBAM.
-
-[3] Nhat Truong Pham, SERVER: Multi-modal Speech Emotion Recognition using Transformer-based and Vision-based Embeddings (ICIIT), 2023. Available https://github.com/nhattruongpham/mmser.git.
-
-[4] Mustaqeem Khan, MemoCMT: Cross-Modal Transformer-Based Multimodal Emotion Recognition System (Scientific Reports), 2025. Available https://github.com/tpnam0901/MemoCMT.
-
-[5] Nhat Truong Pham, SER-Fuse: An Emotion Recognition Application Utilizing Multi-Modal, Multi-Lingual, and Multi-Feature Fusion (SOICT), 2023. Available https://github.com/nhattruongpham/SER-Fuse.
-
-[6] Nhut Minh Nguyen, Nhat Truong Pham, Duc Ngoc Minh Dang, HyperDyG: Hypergraph-driven dynamic fusion for semi-supervised multimodal emotion recognition (EAI Endorsed Transactions on Industrial Networks and Intelligent Systems), 2026.
-
-[7] Nhut Minh Nguyen, Nhat Truong Pham, Duc Ngoc Minh Dang, SemiFedER: Semi-supervised federated averaging for multimodal emotion recognition (MLHMI), 2026.
-
-## Citation
-
-If you use this repository or build on FedSeMER, please cite the paper:
-
-```bibtex
-@article{nguyen2026fedsemer,
-  title   = {Federated Semi-Supervised Learning for Multimodal Emotion Recognition under Heterogeneous Client Distributions},
-  author  = {Nguyen, Nhut Minh and Pham, Nhat Truong and Tran, Phuong-Nam and Le, Linh and Othmani, Alice and Lim, Chee Peng and Dang, Duc Ngoc Minh},
-  journal = {Preprint submitted to Elsevier},
-  year    = {2026}
-}
-```
-
-## Contact
-
-- Email: `minhnhut.ngnn@gmail.com`
-- GitHub: https://github.com/nhut-ngnn
-- ORCID: https://orcid.org/0009-0003-1281-5346
-# FedSeMER
